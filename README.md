@@ -1,4 +1,4 @@
-# OneHot-Encoder-Preprocessing-ML
+# OneHot-Encoder-ML
 
 ## 📌 Description
 A hands-on Python project demonstrating One-Hot Encoding to preprocess categorical data and prepare clean datasets for machine learning models.
