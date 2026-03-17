@@ -39,4 +39,4 @@ One-Hot Encoding is a technique where categorical variables are converted into n
 ---
 
 ## 📂 Project File
-- `OneHot-Encoder-Preprocessing-ML.ipynb`
+- `One Hot Encoder-04.ipynb`
